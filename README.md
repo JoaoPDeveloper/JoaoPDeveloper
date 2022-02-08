@@ -1,4 +1,4 @@
-## Olá, meu nome é João Pedro!
+## Olá, me chamo João Pedro!
 <img align='right' src="https://cdn.discordapp.com/attachments/545475937186217994/940412897950064670/netero-heart.gif" height = 200 width="280">
 
 👨‍🎓  **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
