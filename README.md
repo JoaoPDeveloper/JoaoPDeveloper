@@ -1,11 +1,11 @@
 ## Olá, meu nome é João Pedro!
 <img align='right' src="https://cdn.discordapp.com/attachments/545475937186217994/940412897950064670/netero-heart.gif" height = 200 width="280">
 
--👨‍🎓 **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
+👨‍🎓  **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
 
--👔 **Areas de interesse : Desenvolvimento Back-End/Front-End/Full-stack**
+👔  **Areas de interesse : Desenvolvimento Back-End/Front-End/Full-stack**
 
--📚 **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power bi**
+📚  **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power BI**
 
 ## 
 
