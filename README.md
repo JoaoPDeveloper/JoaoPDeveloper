@@ -3,6 +3,8 @@
 
 👨‍🎓  **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
 
+🐱‍🏍 **Postarei alguns projetos muito interessantes e gostaria do envolvimento de todos!**
+
 👔  **Areas de interesse : Desenvolvimento Back-End/Front-End/Full-stack**
 
 📚  **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power BI**
