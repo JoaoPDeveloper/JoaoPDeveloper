@@ -1,4 +1,4 @@
-## Olá, me chamo João Pedro!
+## **Olá, me chamo João Pedro!**
 <img align='right' src="https://cdn.discordapp.com/attachments/545475937186217994/940412897950064670/netero-heart.gif" height = 200 width="280">
 
 👨‍🎓  **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
@@ -10,11 +10,11 @@
 📚  **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power BI**
 
 ## 
-
 <div>
   <a href = "mailto:joao_entreprise@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href=https://www.linkedin.com/in/joao-dev-starter/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div
+
 
 ##
 
