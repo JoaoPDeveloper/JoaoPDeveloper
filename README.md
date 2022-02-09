@@ -3,7 +3,7 @@
 
 👨‍🎓  **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
 
-🐱‍🏍 **Postarei alguns projetos muito interessantes e gostaria do envolvimento de todos!**
+🐱‍🏍 **Postarei aqui alguns projetos muito interessantes e gostaria do envolvimento de todos!**
 
 👔  **Areas de interesse : Desenvolvimento Back-End/Front-End/Full-stack**
 
