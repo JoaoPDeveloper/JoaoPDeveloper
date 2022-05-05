@@ -1,7 +1,7 @@
 ## **Olá, me chamo João Pedro!**
 <img align='right' src="https://cdn.discordapp.com/attachments/545475937186217994/940412897950064670/netero-heart.gif" height = 200 width="280">
 
-👨‍🎓  **Atualmente Estudo JavaScript, Node.js, HTML5, CSS e Bootstrap** 
+👨‍🎓  **Atualmente Estudo Java e JavaScript, Node.js, HTML5, CSS e Bootstrap** 
 
 🐱‍🏍 **Postarei aqui alguns projetos muito interessantes e gostaria do envolvimento de todos!**
 
