@@ -1,19 +1,21 @@
-## **Olá, me chamo João Pedro! ✌🤩👍**
+## **Olá, me chamo João Pedro!**
 
 
 👨‍🎓  **Atualmente Estudo Java e JavaScript, Node.js, HTML5, CSS e Bootstrap** 
 
-🏍   **Postarei aqui alguns projetos muito interessantes e gostaria do envolvimento de todos!**
+🏍   **Postarei aqui alguns projetos com atualizações!**
 
 👔  **Areas de interesse : Desenvolvimento Front-end/Back-End/Full-stack**
 
 📚  **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power BI**
 
+🆘  **Help-desk, Zabbix e Cisco Systems**
+
 
 ## 
 <div>
-  <a href = "mailto:joao_entreprise@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href=https://www.linkedin.com/in/joao-dev-starter target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joao_entreprise@hotmail.com"><img  height = "35" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href=https://www.linkedin.com/in/joao-dev-starter target="_blank"><img  height = "35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div
 
 
@@ -27,7 +29,7 @@
   	<img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  	<img align="center" alt="Bootstrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 	<img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-	<img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+	<img align="center" alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
           
 </div>
 
