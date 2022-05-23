@@ -9,8 +9,6 @@
 
 📚  **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power BI**
 
-<img align='right' src="https://cdn.discordapp.com/attachments/545475937186217994/940412897950064670/netero-heart.gif" height = 200 width="280">
-
 
 ## 
 <div>
@@ -23,7 +21,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java Script" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />				   <img align="center" alt="React.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Node.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />		
+  <img align="center" alt="React.JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align='right' src="https://cdn.discordapp.com/attachments/545475937186217994/940412897950064670/netero-heart.gif" height = 200 width="280">
+	
+	##
+	
   <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />		
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
