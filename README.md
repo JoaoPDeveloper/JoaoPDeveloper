@@ -41,7 +41,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPDeveloper&layout=compact&langs_count=7&theme=dark"/>
 </div>			
 																																			   
-	<!--START_SECTION:waka-->
-	31a0d312-2644-47fe-b676-8f2cb394bb69
-<!--END_SECTION:waka-->																																		   
+
+	
+	https://wakatime.com/@JoaoPDeveloper
+																																			   
  ![Snake animation](https://github.com/JoaoPDeveloper/zarkooi/blob/output/github-contribution-grid-snake.svg)
