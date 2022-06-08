@@ -42,7 +42,6 @@
 </div>			
 																																			   
 
-	
-	https://wakatime.com/@JoaoPDeveloper
+WAKATIME_API_KEY = <31a0d312-2644-47fe-b676-8f2cb394bb69>
 																																			   
  ![Snake animation](https://github.com/JoaoPDeveloper/zarkooi/blob/output/github-contribution-grid-snake.svg)
