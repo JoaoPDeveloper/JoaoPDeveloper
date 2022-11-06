@@ -7,7 +7,7 @@
 
 👔  **Areas de interesse : Desenvolvimento Front-end/Back-End/Full-stack**
 
-📚  **Conhecimentos em SQL, NoSQL, pfSense, TOTVS - Winthor, Microsoft Windows Server 2016/2019 e Power BI**
+📚  **Conhecimentos em SQL, NoSQL, pfSense, ERP TOTVs-Winthor, Microsoft Windows Server 2016/2019 e Power BI**
 
 🆘  **Help-desk, Zabbix,GLPI e Cisco Systems**
 
