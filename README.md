@@ -1,7 +1,7 @@
 ## **Olá, me chamo João Pedro!**
 
 
-👨‍🎓  **Atualmente Estudo Java e JavaScript, Node.js, HTML5, CSS, Bootstrap, PHP** 
+👨‍🎓  **Atualmente Estudo Typescript e JavaScript, Node.js, HTML5, CSS, Bootstrap, PHP** 
 
 🏍   **Postarei aqui alguns projetos/atividades!**
 
