@@ -12,7 +12,7 @@
 ## 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-dev-starter/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao_entreprise@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:joao_entreprise@hotmail.com)
 	
 ## My Development Stack
 
