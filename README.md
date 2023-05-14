@@ -2,12 +2,12 @@
 
 <img align="right" width="40%" src="https://media.tenor.com/3TwmcJ-ffa0AAAAC/netero-heart.gif" alt="netero" />
 
+
 👨‍🎓  **Learning Typescript e JavaScript, Node.js, HTML5, CSS, TailWind/Bulma/Next.js , PHP e Angular** 
 
 👔  **Developer Front-end/Back-End/Full-stack**
 
 📚  **knowledge on SQL, NoSQL, pfSense, ERP TOTVs-Winthor, Microsoft Windows Server 2016/2019 e Power BI**
-
 
 ## 
 
@@ -68,15 +68,14 @@
 <p align="center">
   
 </p>
-
+																																			   
+<img align="center" width="100%" src="https://art.pixilart.com/sr2783f859fa2e9.gif" alt="netero" />
 																																					 
 <div align="center">
   <a href="https://github.com/JoaoPDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPDeveloper&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPDeveloper&layout=compact&langs_count=7&theme=nightowl"/>
 </div>		
-																																			   
-
 
 																																			   
  ![Snake animation](https://github.com/JoaoPDeveloper/JoaoPDeveloper/blob/output/github-contribution-grid-snake.svg)
