@@ -1,3 +1,4 @@
+
 # Hi, nice to meet you <img width="40" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" />
 
 <img align="right" width="40%" src="https://media.tenor.com/3TwmcJ-ffa0AAAAC/netero-heart.gif" alt="netero" />
@@ -69,8 +70,10 @@
   
 </p>
 																																			   
-<img align="center" width="100%" src="https://art.pixilart.com/sr2783f859fa2e9.gif" alt="netero" />
-																																					 
+<img align="center" width="100%" src="https://art.pixilart.com/sr2783f859fa2e9.gif" alt="space" />
+design by dragonkey	
+
+##
 <div align="center">
   <a href="https://github.com/JoaoPDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPDeveloper&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
