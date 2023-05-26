@@ -76,8 +76,8 @@ design by dragonkey
 ##
 <div align="center">
   <a href="https://github.com/JoaoPDeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPDeveloper&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPDeveloper&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src ="https://github-readme-stats.vercel.app/api?username=JoaoPDeveloper&show_icons=true&theme=solarized-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPDeveloper&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>		
 
 																																			   
