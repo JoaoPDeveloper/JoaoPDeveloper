@@ -1,6 +1,9 @@
 
 # Hi, nice to meet you <img width="40" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" />
 
+![](https://komarev.com/ghpvc/?username=JoaoPDeveloper&label=PROFILE+VIEWS&color=blueviolet)	
+
+
 👨‍🎓  **Learning Typescript e JavaScript, Node.js, HTML5, CSS, TailWind/Bulma/Next.js , PHP e Angular** 
 
 👔  **Developer Front-end/Back-End/Full-stack**
@@ -75,7 +78,4 @@ design by dragonkey
   <a href="https://github.com/JoaoPDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPDeveloper&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPDeveloper&layout=compact&langs_count=7&theme=nightowl"/>
-</div>		
-
-																																			   
- ![Snake animation](https://github.com/JoaoPDeveloper/JoaoPDeveloper/blob/output/github-contribution-grid-snake.svg)
+</div>	
