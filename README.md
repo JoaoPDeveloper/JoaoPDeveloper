@@ -1,8 +1,6 @@
 
 # Hi, nice to meet you <img width="40" src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" />
 
-<img align="right" width="40%" src="https://media.tenor.com/3TwmcJ-ffa0AAAAC/netero-heart.gif" alt="netero" />
-
 
 👨‍🎓  **Learning Typescript e JavaScript, Node.js, HTML5, CSS, TailWind/Bulma/Next.js , PHP e Angular** 
 
