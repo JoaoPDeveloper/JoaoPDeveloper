@@ -26,8 +26,8 @@
 <code><img align="center" alt="php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" alt="bulma"  width="60" src="https://cdn.worldvectorlogo.com/logos/bulma.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
@@ -59,7 +59,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"/></code>
 <code><img height="32" src="https://firebase.google.com/static/images/brand-guidelines/logo-built_white.png?hl=pt-br" alt="firebase"/></code>
 
-**Business Tools**
+**Working Tools**
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
@@ -68,10 +68,8 @@
 ##
 <p align="center">
   
-</p>
-																																			   
+</p>																						   
 <img align="center" width="100%" src="https://art.pixilart.com/sr2783f859fa2e9.gif" alt="space" />
-design by dragonkey	
 
 ##
 <div align="center">
