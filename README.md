@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=JoaoPDeveloper&label=PROFILE+VIEWS&color=blueviolet)	
 
 
-👨‍🎓  **Learning Typescript e JavaScript, Node.js, HTML5, CSS, TailWind/Bulma/Next.js , PHP e Angular** 
+👨‍🎓  **Learning  PHP, Java and TypeScript** 
 
 👔  **Developer Front-end/Back-End/Full-stack**
 
